@@ -23,12 +23,13 @@ A Python script to scrape product data from an e-commerce website for educationa
    cd python-web-scraping-project
 
 2. کتابخانه های پایتون را نصب کنید:
-   pip install -r requirements.txt
+    ```pip install -r requirements.txt
 
 3.مرورگر Chromium را برای Playwright نصب کنید:
-   playwright install chromium
-#در نهایت اجرا:
-   python scraper.py
+    ```playwright install chromium
+#در نهایت اجرا کنید:
+    ```python scraper.py
+    
 بعد از اجرا، پنجره مرورگر باز می‌شود. فیلترهای تحصیلی را اعمال کنید، منتظر بارگذاری کامل نتایج بمانید، سپس در ترمینال دستور now را تایپ کنید.
 
 برای توقف اسکریپت می‌توانید Ctrl+C بزنید.
