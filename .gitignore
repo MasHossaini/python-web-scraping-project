@@ -1,0 +1,7 @@
+# فایل خروجی اسکریپت
+onet_education_public_fields.xlsx
+
+# فایل‌های موقت
+__pycache__/
+.env
+.venv/
